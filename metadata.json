@@ -1,0 +1,8 @@
+{
+  "name": "Remix BUSCA EMPRESAS AI 0.1",
+  "description": "Interface de prospecção comercial B2B para busca e filtragem de empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
